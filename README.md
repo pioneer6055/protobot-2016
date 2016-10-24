@@ -1,8 +1,8 @@
 # protobot-2016
 2016 off-season code development
 
-Goals for the offseason:  find a stable gyro and develop a library for it
-                          develop a vision option
+Goals for the offseason:  find a stable gyro and develop a library for it, 
+                          develop a vision option, 
                           develop repeatable "step" code for autonomous mode
 
 Pixy.cpp and Pixy.h are a library for using a Pixy camera via the I2C bus on the roboRIO.
